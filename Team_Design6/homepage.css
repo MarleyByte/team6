@@ -11,7 +11,7 @@ body, .homeContainer{
     max-width: 100vw;
 }
 .homeContainer{
-    background-image: url('images/bg.JPEG');
+    background-image: url('images/bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -26,7 +26,7 @@ display: none;
     border: 1px solid black;
 }
 .homeContainer .navContainer .logo{
-    background-image: url('images/logo.JPEG');
+    background-image: url('images/logo.jpeg');
     background-size: 100%;
     min-width: 100%;
     min-height: 1em;
